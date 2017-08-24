@@ -1,0 +1,18 @@
+{
+    "debug": true,
+    "port": 8080,
+    "omero": {
+        "host": "omero",
+        "port": 4064
+    },
+    "omero.server": {
+        "omero.data.dir": "/mnt/OMERO_DATA",
+        "omero.db.host": "db",
+        "omero.db.port": "5432",
+        "omero.db.user": "postgres",
+        "omero.db.pass": "postgres"
+    },
+    "redis": {
+        "uri": "redis://password@redis:6379/0"
+    }
+}
