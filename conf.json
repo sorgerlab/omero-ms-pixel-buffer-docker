@@ -9,6 +9,7 @@
         "omero.data.dir": "/mnt/OMERO_DATA",
         "omero.db.host": "db",
         "omero.db.port": "5432",
+        "omero.db.name": "postgres",
         "omero.db.user": "postgres",
         "omero.db.pass": "postgres"
     },
